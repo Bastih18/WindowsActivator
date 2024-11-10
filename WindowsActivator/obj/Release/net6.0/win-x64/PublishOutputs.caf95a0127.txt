@@ -1,0 +1,2 @@
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\bin\Release\net6.0\win-x64\publish\WindowsActivator.pdb
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\bin\Release\net6.0\win-x64\publish\WindowsActivator.exe

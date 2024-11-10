@@ -1,0 +1,17 @@
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\bin\Release\net6.0\WindowsActivator.exe
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\bin\Release\net6.0\WindowsActivator.deps.json
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\bin\Release\net6.0\WindowsActivator.runtimeconfig.json
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\bin\Release\net6.0\WindowsActivator.dll
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\bin\Release\net6.0\WindowsActivator.pdb
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\bin\Release\net6.0\Spectre.Console.dll
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\obj\Release\net6.0\WindowsActivator.csproj.AssemblyReference.cache
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\obj\Release\net6.0\WindowsActivator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\obj\Release\net6.0\WindowsActivator.AssemblyInfoInputs.cache
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\obj\Release\net6.0\WindowsActivator.AssemblyInfo.cs
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\obj\Release\net6.0\WindowsActivator.csproj.CoreCompileInputs.cache
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\obj\Release\net6.0\WindowsActivator.csproj.CopyComplete
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\obj\Release\net6.0\WindowsActivator.dll
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\obj\Release\net6.0\refint\WindowsActivator.dll
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\obj\Release\net6.0\WindowsActivator.pdb
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\obj\Release\net6.0\WindowsActivator.genruntimeconfig.cache
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\obj\Release\net6.0\ref\WindowsActivator.dll

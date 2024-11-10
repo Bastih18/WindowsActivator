@@ -1,0 +1,6 @@
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\bin\Release\net6.0\publish\WindowsActivator.exe
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\bin\Release\net6.0\publish\WindowsActivator.dll
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\bin\Release\net6.0\publish\WindowsActivator.deps.json
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\bin\Release\net6.0\publish\WindowsActivator.runtimeconfig.json
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\bin\Release\net6.0\publish\WindowsActivator.pdb
+C:\Users\hoyse\Coding\OtherCodingStuff\WindowsActivator\WindowsActivator\bin\Release\net6.0\publish\Spectre.Console.dll
